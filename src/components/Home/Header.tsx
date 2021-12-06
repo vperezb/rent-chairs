@@ -1,4 +1,3 @@
-import "../../styles/home.css";
 import logo from "../../assets/images/logo.svg";
 
 const Header = () => {
